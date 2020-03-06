@@ -7,3 +7,4 @@ PART2:
 - day2 - prosta wizualizacja
 - day3 - model Dummy, DecisionTreeRegressor (dataset car.h5)
 - day4 - model XGBoost (dataset car.h5)
+- day5 - model XGBoost + hyperopt (dataset car.h5)
